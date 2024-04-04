@@ -1,0 +1,101 @@
+header {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #f0f0f0;
+  border-bottom: 1px solid #ccc;
+}
+
+h1 {
+  font-weight: bold;
+  margin: 0;
+}
+
+a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: darkblue;
+}
+
+.link-container {
+  width: 100%;
+  text-align: center;
+}
+
+#canvas {
+  width: 630px;
+  height: 630px;
+  border: 1px solid black;
+  margin: auto;
+}
+
+.cell {
+  width: 30px;
+  height: 30px;
+  float: left;
+  background-color: none;
+  border: 1px solid lightgrey;
+}
+
+.circle {
+  background-color: yellow;
+}
+
+#controls {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+#controls {
+  display: flex;
+}
+
+#controls > div {
+  margin-right: 10px;
+}
+
+#controls > div:last-child {
+  margin-right: 0;
+}
+#controls {
+  margin: 0px auto 20px auto;
+}
+#controls label {
+  display: inline-block;
+  width: 80px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+#canvas {
+  margin: 20px auto 60px auto;
+}
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #f0f0f0;
+  border-top: 1px solid #ccc;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+}
+
+.link-container {
+  width: 100%;
+  text-align: center;
+}
