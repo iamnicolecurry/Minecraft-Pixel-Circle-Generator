@@ -35,6 +35,4 @@ If you use the Pixel Circle Generator in your projects, we kindly request you to
 
 ## Additional Information
 
-For more information, tutorials, and updates, visit our website [Pixel Circle Generator](https://speedwallop.com/minecraft-pixel-circle-generator).
-
-Happy circle creating!
+For more information, tutorials, and updates, visit our [Website](https://speedwallop.com/).
