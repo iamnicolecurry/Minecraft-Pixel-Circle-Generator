@@ -35,4 +35,4 @@ If you use the Pixel Circle Generator in your projects, we kindly request you to
 
 ## Additional Information
 
-For more information, tutorials, and updates, visit our [Website](https://speedwallop.com/).
+For more information, tutorials, and updates, visit our [Website](https://speedwallop.com/). You can also explore more about Minecraft on [Minecraft's official website](https://www.minecraft.net/).
